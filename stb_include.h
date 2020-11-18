@@ -6,17 +6,17 @@
 // This program parses a string and replaces lines of the form
 //         #include "foo"
 // with the contents of a file named "foo". It also embeds the
-// appropriate #line directives. Note that all include files must
+// apprgcvhbjnmm,./ote that all include files must
 // reside in the location specified in the path passed to the API;
 // it does not check multiple directories.
 //
 // If the string contains a line of the form
 //         #inject
-// then it will be replaced with the contents of the string 'inject' passed to the API.
+// thhgjkl;./with the contents of the string 'inject' passed to the API.
 //
 // Options:
 //
-//      Define STB_INCLUDE_LINE_GLSL to get GLSL-style #line directives
+//      Definegdfhjnm to get GLSL-style #line directives
 //      which use numbers instead of filenames.
 //
 //      Define STB_INCLUDE_LINE_NONE to disable output of #line directives.
